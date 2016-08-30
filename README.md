@@ -10,5 +10,5 @@ Supplemental material to:
 
 * Fashion DNA:  Merging Content and Sales Data for Recommendation and Article Mapping
 * Christian Bracher, Sebastian Heinz, Roland Vollgraf
-* Submitted to:  KDD Fashion Workshop, KDD 2016, August 2016, San Francisco
+* Presented at:  KDD Fashion Workshop, KDD 2016, August 2016, San Francisco
 
